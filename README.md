@@ -8,7 +8,6 @@
     - 💬 La comunicación y el metodismo a la hora de encarar un proyecto en el cual se suele interconsultar entre los diferentes departamentos.
     - 🔎 Habilidad para Googlear y paciencia de esas que leen la documentación completa o llegan más allá de la primera página de resultados.
     - 🇬🇧 Nivel avanzado de inglés tanto escrito como oral. Nivel básico de Alemán 🇩🇪 (nivel A2.2)
-    - 📬 Ego no tan grande como para no aceptar críticas u opiniones sobre mi trabajo.
     - 🎹 Disfruto tanto enseñar (Di clases de piano 7 años para pagar la universidad), como aprender, en especial aprender.
     - 🍻 Sentirme útil para un equipo realmente pone mi productividad al 200%
     
@@ -37,14 +36,12 @@ paralelo a mi aprendizaje de MERN estoy incursionando en Python para la parte de
     - 💬 Great communication and methodic approach when it comes to start a project in wich you are always consulting with other departments.
     - 🔎 Great Google skills and patience. The kind that can read the whole documentation and get past the first results page.
     - 🇬🇧 Advanced English skills both written and spoken. Basic German level 🇩🇪 (A2.2)
-    - 📬 An Ego that is able to accept opinions about my work.
     - 🎹 I really enjoy teaching (I teached piano for 7 years to pay for my studies) and learning, speacially learning.
     - 🍻 Feeling useful for a team really increases my productivity 200%
     
 -Not so pros:
     - If I get intrested in any subject i will probably spend hours looking for information about it, and by the end of the day i will most certainly be reading 
     about something that may be connected to the original matter, but will not be as important.
-    
     
 - 🌱 I'm learning Web Development ( I think that's where most of us start). Mainly HTML, CSS, Javascript. I'm using React.JS and Node.Js. Basicly MERN Stack.
 
