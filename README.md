@@ -21,7 +21,7 @@
 - 👀  Quiero seguir desarollandome en este Stack, pero tembién me interesaría aprender algo del mundo del Testeo tanto manual como automatizado. También 
 paralelo a mi aprendizaje de MERN estoy incursionando en Python para la parte del BACK y leyendo sobre Machine Learning y AI.
 
-- 📟 Me pueden contactar a mi mail darionti@gmail.com
+- 📟 Me pueden contactar a mi mail darionti@gmail.com o en https://darionti-web.firebaseapp.com/
 
 
 !----------------------------------------------------------- E N G L I S H ------------------------------------------------------
@@ -48,4 +48,4 @@ paralelo a mi aprendizaje de MERN estoy incursionando en Python para la parte de
 - 👀  I want to keep developing within this Stack, but I am also intrested in Testing, both manual and automatized. Along with this I am getting into Python
 (doing some courses and practicing) for the Backend, but also for Machine Learning and AI.
 
-- 📟  You can reach me at darionti@gmail.com
+- 📟  You can reach me at darionti@gmail.com or https://darionti-web.firebaseapp.com/
