@@ -1,22 +1,3 @@
--👋 Hola! Soy Dario Ontiveros de Buenos Aires, Argentina. 👋
-
-Soy un desarrollador FullStack. Últimamente trabajando mucho en mobile con React Native, pero he trabajado también con React.Js y Node.Js
-
-Tengo 7 años de experiencia previos trabajando en el mundo del cine y la publicidad. Esto me enseñó como trabajar en equipo, como liderar y como ser liderado. También lo que significa trabajar en proyectos, definiendo estrategias, estableciendo deadlines y teniendo todos un objetivo en común.
-
--Mi fuertes son:
-    - 💬 La comunicación y el metodismo a la hora de encarar un proyecto en el cual se suele interconsultar entre los diferentes departamentos.
-    - 🔎 Habilidad para Googlear y paciencia de esas que leen la documentación completa o llegan más allá de la primera página de resultados.
-    - 🇬🇧 Nivel avanzado de inglés tanto escrito como oral. Nivel básico de Alemán 🇩🇪 (nivel A2.2)
-    - 🎹 Disfruto tanto enseñar (Di clases de piano 7 años para pagar la universidad), como aprender, en especial aprender.
-    - 🍻 Sentirme útil para un equipo realmente pone mi productividad al 200%
-    
-   
-- 📟 Me pueden contactar a mi mail darionti@gmail.com o en https://darionti-web.firebaseapp.com/
-
-
-!----------------------------------------------------------- E N G L I S H ------------------------------------------------------
-
 -👋 Hi! My name is Dario Ontiveros and I come from Buenos Aires, Argentina. 👋
 
 I'm a FullStack Developer, mostly working in Mobile with React Native, but I've worked with React.Js and Node.Js
@@ -31,4 +12,27 @@ I've 7 years of experience working in the 🎥 Movies and Advertising Industry. 
     - 🍻 Feeling useful for a team really increases my productivity 200%
  
 
-- 📟  You can reach me at darionti@gmail.com or https://darionti-web.firebaseapp.com/
+- 📟  You can reach me at darionti@gmail.com or https://darionti.vercel.app/
+
+
+!----------------------------------------------------------- S P A N I S H ------------------------------------------------------
+
+-👋 Hola! Soy Dario Ontiveros de Buenos Aires, Argentina. 👋
+
+Soy un desarrollador FullStack. Últimamente trabajando mucho en mobile con React Native, pero he trabajado también con React.Js y Node.Js
+
+Tengo 7 años de experiencia previos trabajando en el mundo del cine y la publicidad. Esto me enseñó como trabajar en equipo, como liderar y como ser liderado. También lo que significa trabajar en proyectos, definiendo estrategias, estableciendo deadlines y teniendo todos un objetivo en común.
+
+-Mi fuertes son:
+    - 💬 La comunicación y el metodismo a la hora de encarar un proyecto en el cual se suele interconsultar entre los diferentes departamentos.
+    - 🔎 Habilidad para Googlear y paciencia de esas que leen la documentación completa o llegan más allá de la primera página de resultados.
+    - 🇬🇧 Nivel avanzado de inglés tanto escrito como oral. Nivel básico de Alemán 🇩🇪 (nivel A2.2)
+    - 🎹 Disfruto tanto enseñar (Di clases de piano 7 años para pagar la universidad), como aprender, en especial aprender.
+    - 🍻 Sentirme útil para un equipo realmente pone mi productividad al 200%
+    
+   
+- 📟 Me pueden contactar a mi mail darionti@gmail.com o en https://darionti.vercel.app/
+
+
+
+
